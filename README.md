@@ -195,32 +195,6 @@ Gemini: Suitable for brief, general responses with decent consistency.
 Meta: Best used for simple factual tasks but needs improvement in expressiveness.
 
 
-
-
-
-# Result : The Prompt for the above problem statement executed successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Result:
 Thus the Prompting tools are executed and analysed sucessfully .
 
